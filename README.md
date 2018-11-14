@@ -1,8 +1,12 @@
-<h1>Genwarp RSVP Database</h1><br/>
+<h2>Genwarp RSVP Database</h2><br/>
 <b>Installation:</b>
-- import rsvp.sql to your database table
-- edit includes/config.php to you db credentials
-- upload to server all files
-
+<ul>
+  <li>import rsvp.sql to your database table</li>
+  <li>edit includes/config.php to you db credentials</li>
+  <li>upload to server all files</li>
+</ul>
+<br/>
 <b>Important:</b>
-- create admin account first on mysql db
+<ul>
+  <li>create admin account first on mysql db</li>
+</ul>
