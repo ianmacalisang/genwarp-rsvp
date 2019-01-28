@@ -3,7 +3,6 @@
 Demo: https://rsvp-platform.herokuapp.com/
 
 User: andyware012
-
 Pass: ilm10998
 
 ### Usage:
@@ -11,5 +10,5 @@ Pass: ilm10998
 * Download Card Info
 * Point a QR Code enabled mobile camera
 * Select choice and check back to your dashboard
----
+
 > This web application is still under development. TY
