@@ -2,7 +2,7 @@
 
 Demo: https://rsvp-platform.herokuapp.com/
 
-User: andyware012
+User: andyware012<br/>
 Pass: ilm10998
 
 ### Usage:
