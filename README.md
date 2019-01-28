@@ -1,12 +1,14 @@
-<h2>Genwarp RSVP Database</h2><br/>
-<b>Installation:</b>
-<ul>
-  <li>import rsvp.sql to your database table</li>
-  <li>edit includes/config.php to you db credentials</li>
-  <li>upload to server all files</li>
-</ul>
-<br/>
-<b>Important:</b>
-<ul>
-  <li>create admin account first on mysql db</li>
-</ul>
+# Genwarp RSVP with QR Code Platform
+
+Demo: https://rsvp-platform.herokuapp.com/
+
+User: andyware012
+Pass: ilm10998
+
+### Usage:
+* Login and start adding invites
+* Download Card Info
+* Point a QR Code enabled mobile camera
+* Select choice and check back to your dashboard
+
+> This web application is still under development. TY
