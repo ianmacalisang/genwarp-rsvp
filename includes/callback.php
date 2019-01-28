@@ -75,7 +75,7 @@ if($_GET['postType'] === 'attendee'){
     if($insertGuest){
         
         $tempDir = '../public/images/qr/';
-        $codeContents = 'https://rsvp.genwarp.com/verify?key='.$guestAccess; 
+        $codeContents = 'https://rsvp-platform.herokuapp.com/verify?key='.$guestAccess; 
         $fileName = $guestAccess.'.png'; 
         $pngAbsoluteFilePath = $tempDir.$fileName; 
  
